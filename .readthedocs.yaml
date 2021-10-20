@@ -8,5 +8,7 @@ python:
       path: .
       
 sphinx:
+  formats:
+   - pdf
   fail_on_warning: true
 
